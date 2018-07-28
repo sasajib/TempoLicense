@@ -29,13 +29,6 @@ docker run -d --name jrebel-ls --restart always -e PORT=9001 -p 9001:9001 jrebel
 default port is 8081,you can modify it
 ## Support
 
-Jrebel
-
-JRebel for Android
-
-XRebel
-
-JetBrains Products
 
 ## Feedback
 
